@@ -1,9 +1,8 @@
 Project Name
-
 NavSafe – Smart Safe Route Navigation System
+Theme- Open Innovation
 
-Problem Statement
-
+Problem Statement:
 In India, safety during travel- especially for women at night, remains a serious and growing
 concern. According to the National Crime Records Bureau(NCRB), over 4.48 lakh cases of
 crime against women were reported in 2023. Additionally, major categories such as assault,
@@ -19,23 +18,19 @@ and embedding them into routing algorithms, enabling context-aware and safety-fi
 navigation, not offered by traditional Google Map
 
 Solution
-
 NavSafe is a web-based navigation system that provides:
 
 Shortest route
 Safest route (based on safety score)
-
 It calculates a Safety Score (0–100) using real-time factors like:
-
 time risk (day/night)
 road isolation/density
 proximity to police stations
 proximity to hospitals
 nearby CCTV camera locations (
-
 It displays routes on an interactive map and stores route history for users.
 
-Tech Stack
+Tech Stack-
 
 Frontend:
 HTML
@@ -63,4 +58,5 @@ MySQL
 Team Members
 
 Shravani Patil
+
 Varada Kachroo
